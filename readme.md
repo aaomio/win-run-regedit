@@ -19,9 +19,7 @@ To access Registry Editor:
 - [Lock Screen: Hide Last Username](lockscreen-hide-last-username.md)
 - [Allow Domain PIN Logon](allow-domain-pin-logon.md)
 - [Recycle Bin Missing from Desktop](recycle-bin-missing-desktop.md)
-- [Recycle Bin CLSID Fix](recycle-bin-clsid-fix.md)
 - [OneDrive CLSID Fix](onedrive-clsid-fix.md)
-- [Disable Recent and Frequent Items](recycle-bin-missing-desktop.md)
 - [Enable Recent and Frequent Items](enable-recent-frequent-file-explorer.md)
 
 ---
